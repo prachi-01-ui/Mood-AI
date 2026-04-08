@@ -1,0 +1,6 @@
+opencv-python
+numpy
+deepface
+gtts
+pygame
+mediapipe
